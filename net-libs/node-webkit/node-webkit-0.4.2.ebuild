@@ -20,7 +20,7 @@ IUSE=""
 
 RDEPEND="app-accessibility/speech-dispatcher
 	app-arch/bzip2
-	>=dev-lang/v8-3.16.11.1:=
+	>=dev-lang/v8-3.15.*=
 	>=dev-libs/elfutils-0.149
 	dev-libs/expat
 	>=dev-libs/icu-49.1.1-r1:=
