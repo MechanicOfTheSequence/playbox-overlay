@@ -15,7 +15,7 @@ SRC_URI="https://github.com/rogerwang/node-webkit/archive/nw-v${PVR}.tar.gz"
 
 LICENSE="BSD"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="amd64 x86"
 IUSE=""
 
 RDEPEND="app-accessibility/speech-dispatcher
