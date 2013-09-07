@@ -7,4 +7,16 @@
 >=sys-libs/zlib-1.2.7 minizip
 # required by net-libs/node-webkit-0.4.2::amd64-generic
 # required by node-webkit (argument)
->=dev-libs/libxml2-2.9.1-r1 icu
+>=dev-libs/libxml2-2.9.1 icu
+
+
+# required by dev-util/buildbot-0.8.7_p1-r1
+# required by coreos-devel/coreos-buildbot-0.0.1-r1::coreos
+# required by coreos-devel/buildhost-depends-0.1.1::amd64-generic
+# required by coreos-devel/buildhost-depends (argument)
+>=dev-lang/python-2.7.3-r5 sqlite
+# required by coreos-base/hard-host-depends-0.0.1-r152::coreos
+# required by coreos-devel/sdk-depends-0.1.1::amd64-generic
+# required by coreos-devel/buildhost-depends-0.1.1::amd64-generic
+# required by coreos-devel/buildhost-depends (argument)
+=coreos-base/cros-devutils-0.0.1-r524 cros_host
