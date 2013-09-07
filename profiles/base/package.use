@@ -1,0 +1,10 @@
+# required by x11-libs/gtk+-2.24.17::amd64-generic
+# required by net-libs/node-webkit-0.4.2::amd64-generic
+# required by node-webkit (argument)
+=x11-libs/gdk-pixbuf-2.26.4 X
+# required by net-libs/node-webkit-0.4.2::amd64-generic
+# required by node-webkit (argument)
+>=sys-libs/zlib-1.2.7 minizip
+# required by net-libs/node-webkit-0.4.2::amd64-generic
+# required by node-webkit (argument)
+>=dev-libs/libxml2-2.9.1-r1 icu
